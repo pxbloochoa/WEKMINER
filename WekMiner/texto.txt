@@ -1,0 +1,68 @@
+Clustering 
+
+ Numero De Clusters:  30
+
+ Contenido: 
+Valores del cluster  0  = '2'  'cristopher'  'jennings'  'Wisconsin'  'Nebraska'  '7632'  '6850047315359048'  'Auto'  'American airlines'  '(509) 105-5007'  
+Valores del cluster  1  = '3'  'samuel'  'finley'  'Michigan'  'Ohio'  '3737'  '0062275487674499'  'Avion'  'Lufthansa'  '(351) 477-6505'  
+Valores del cluster  2  = '4'  'karen'  'jackson'  'Michigan'  'Misisipi'  '5966'  '0715791112636445'  'Tren'  'United arilines'  '(307) 170-3061'  
+Valores del cluster  3  = '5'  'luka'  'schroeder'  'Michigan'  'Michigan'  '2311'  '7916949435889257'  'Tren'  'Southwest'  '(858) 785-1721'  
+Valores del cluster  4  = '6'  'nixon'  'franklin'  'Hawaii'  'Illinois'  '694'  '9188495197118164'  'Tren'  'Delta'  '(504) 491-4140'  
+Valores del cluster  5  = '7'  'elisha'  'joseph'  'Missouri'  'Wyoming'  '7112'  '0515256594885340'  'Auto'  'Delta'  '(206) 722-2326'  
+Valores del cluster  6  = '8'  'luna'  'holden'  'N mexico'  'Kentucky'  '8686'  '0783773693584582'  'Auto'  'Aeromexico'  '(912) 368-4614'  
+Valores del cluster  7  = '9'  'averie'  'jackson'  'Nebraska'  'Virginia'  '9373'  '1328008868761045'  'Auto'  'Virgin'  '(507) 366-9556'  
+Valores del cluster  8  = '10'  'bruno'  'lara'  'Wyoming'  'Ohio'  '1237'  '2874167857399720'  'Auto'  'Southwest'  '(425) 604-3338'  
+Valores del cluster  9  = '11'  'abby'  'cain'  'Arizona'  'Washington'  '9475'  '8360167950141935'  'Avion'  'Aeromexico'  '(606) 233-8081'  
+Valores del cluster  10  = '12'  'cassius'  'savage'  'Virginia'  'Dakota S'  '7353'  '8168061606861816'  'Auto'  'American airlines'  '(978) 810-1559'  
+Valores del cluster  11  = '13'  'haven'  'gonzalez'  'Luisiana'  'Alaska'  '8631'  '1129242814649229'  'Avion'  'Delta'  '(409) 104-9604'  
+Valores del cluster  12  = '14'  'ariel'  'mayer'  'Minnesota'  'Indiana'  '7145'  '4745291959668597'  'Avion'  'United arilines'  '(813) 578-7715'  
+Valores del cluster  13  = '15'  'emmitt'  'bullock'  'Dakota N'  'Carolina S'  '3004'  '7355170229032906'  'Tren'  'United arilines'  '(325) 496-3603'  
+Valores del cluster  14  = '16'  'gilbert'  'pennington'  'Colorado'  'Tennessee'  '3483'  '2644182125904651'  'Auto'  'United arilines'  '(906) 422-9309'  
+Valores del cluster  15  = '17'  'mara'  'mcintosh'  'Utah'  'Alabama'  '3537'  '6507912398331196'  'Avion'  'Southwest'  '(971) 917-4812'  
+Valores del cluster  16  = '18'  'jack'  'wagner'  'Dakota S'  'Minnesota'  '835'  '7971901166367529'  'Avion'  'Aeromexico'  '(352) 725-8022'  
+Valores del cluster  17  = '19'  'malcolm'  'lambert'  'Nevada'  'Luisiana'  '9440'  '5022732501996325'  'Avion'  'Virgin'  '(509) 186-2802'  
+Valores del cluster  18  = '20'  'kadence'  'william'  'Illinois'  'Dakota N'  '6510'  '2707286453169851'  'Avion'  'American airlines'  '(325) 386-3942'  
+Valores del cluster  19  = '21'  'braylon'  'gillespie'  'Luisiana'  'Florida'  '7249'  '8729799634870328'  'Tren'  'Virgin'  '(765) 395-1175'  
+Valores del cluster  20  = '22'  'gia'  'woodward'  'Nevada'  'Wisconsin'  '3253'  '5429067110190013'  'Auto'  'Delta'  '(805) 837-8780'  
+Valores del cluster  21  = '23'  'payton'  'brock'  'Arizona'  'New York'  '2514'  '2539894510962431'  'Auto'  'Virgin'  '(727) 683-3953'  
+Valores del cluster  22  = '24'  'braden'  'summers'  'Alabama'  'Idaho'  '1036'  '1687095849108135'  'Auto'  'Southwest'  '(339) 220-0557'  
+Valores del cluster  23  = '25'  'miley'  'clark'  'Dakota N'  'Pensilvania'  '4653'  '9703397851293317'  'Auto'  'Southwest'  '(908) 891-4981'  
+Valores del cluster  24  = '26'  'martin'  'buck'  'Nevada'  'Hawaii'  '7535'  '4946717305500945'  'Tren'  'Aeromexico'  '(703) 906-2509'  
+Valores del cluster  25  = '27'  'lola'  'watson'  'Kansas'  'Dakota S'  '8795'  '1309883332995136'  'Avion'  'Aeromexico'  '(347) 699-4025'  
+Valores del cluster  26  = '28'  'camden'  'marquez'  'Carolina N'  'Virginia'  '7170'  '0356832391233146'  'Avion'  'American airlines'  '(985) 484-8297'  
+Valores del cluster  27  = '29'  'kylee'  'ferguson'  'Nevada'  'Misisipi'  '5726'  '2121042451443250'  'Tren'  'Delta'  '(908) 385-5816'  
+Valores del cluster  28  = '30'  'giana'  'parrish'  'Colorado'  'Iowa'  '9829'  '2297614460640567'  'Avion'  'United arilines'  '(319) 596-7800'  
+Valores del cluster  29  = '31'  'gibson'  'molina'  'Luisiana'  'Tennessee'  '1623'  '4278228089341379'  'Tren'  'Lufthansa'  '(541) 278-9682'  
+
+
+ Total y Porcentaje: 
+Cluster numero 0 =   365   porcentaje de cluster:  3.65 %
+Cluster numero 1 =   230   porcentaje de cluster:  2.3 %
+Cluster numero 2 =   298   porcentaje de cluster:  2.98 %
+Cluster numero 3 =   329   porcentaje de cluster:  3.29 %
+Cluster numero 4 =   217   porcentaje de cluster:  2.17 %
+Cluster numero 5 =   278   porcentaje de cluster:  2.78 %
+Cluster numero 6 =   283   porcentaje de cluster:  2.83 %
+Cluster numero 7 =   336   porcentaje de cluster:  3.36 %
+Cluster numero 8 =   290   porcentaje de cluster:  2.9 %
+Cluster numero 9 =   530   porcentaje de cluster:  5.3 %
+Cluster numero 10 =   246   porcentaje de cluster:  2.46 %
+Cluster numero 11 =   228   porcentaje de cluster:  2.28 %
+Cluster numero 12 =   436   porcentaje de cluster:  4.36 %
+Cluster numero 13 =   310   porcentaje de cluster:  3.1 %
+Cluster numero 14 =   279   porcentaje de cluster:  2.79 %
+Cluster numero 15 =   357   porcentaje de cluster:  3.57 %
+Cluster numero 16 =   288   porcentaje de cluster:  2.88 %
+Cluster numero 17 =   272   porcentaje de cluster:  2.72 %
+Cluster numero 18 =   188   porcentaje de cluster:  1.88 %
+Cluster numero 19 =   371   porcentaje de cluster:  3.71 %
+Cluster numero 20 =   465   porcentaje de cluster:  4.65 %
+Cluster numero 21 =   296   porcentaje de cluster:  2.96 %
+Cluster numero 22 =   436   porcentaje de cluster:  4.36 %
+Cluster numero 23 =   279   porcentaje de cluster:  2.79 %
+Cluster numero 24 =   414   porcentaje de cluster:  4.14 %
+Cluster numero 25 =   482   porcentaje de cluster:  4.82 %
+Cluster numero 26 =   477   porcentaje de cluster:  4.77 %
+Cluster numero 27 =   354   porcentaje de cluster:  3.54 %
+Cluster numero 28 =   318   porcentaje de cluster:  3.18 %
+Cluster numero 29 =   348   porcentaje de cluster:  3.48 %
