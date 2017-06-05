@@ -1,0 +1,28 @@
+Clustering 
+
+ Numero De Clusters:  10
+
+ Contenido: 
+Valores del cluster  0  = 200201  Baja California  664241.90  2135.43  573.85  573853.00  764495.00  
+Valores del cluster  1  = 200201  Baja California Sur  86224.83  392.92  76.94  76944.00  136147.00  
+Valores del cluster  2  = 200201  Campeche  76296.24  164.00  52.89  52889.00  167238.00  
+Valores del cluster  3  = 200201  Coahuila  1363737.18  3001.50  688.75  688749.00  656492.00  
+Valores del cluster  4  = 200201  Colima  912272.63  1900.00  106.37  106367.00  175119.00  
+Valores del cluster  5  = 200201  Chiapas  1187596.01  3928.48  143.83  143827.00  819434.00  
+Valores del cluster  6  = 200201  Chihuahua  846701.80  1857.06  532.72  532717.00  879933.00  
+Valores del cluster  7  = 200201  Distrito Federal  9877.20  148.00  1130.04  1130043.00  2531497.00  
+Valores del cluster  8  = 200201  Durango  247729.02  615.00  180.95  180953.00  364275.00  
+Valores del cluster  9  = 200201  Guanajuato  545964.62  866.00  579.52  579518.00  1197507.00  
+
+
+ Total y Porcentaje: 
+Cluster numero 0 =   307   porcentaje de cluster:  5.2712913 %
+Cluster numero 1 =   871   porcentaje de cluster:  14.955358 %
+Cluster numero 2 =   490   porcentaje de cluster:  8.413462 %
+Cluster numero 3 =   376   porcentaje de cluster:  6.4560437 %
+Cluster numero 4 =   471   porcentaje de cluster:  8.087225 %
+Cluster numero 5 =   841   porcentaje de cluster:  14.440248 %
+Cluster numero 6 =   819   porcentaje de cluster:  14.0625 %
+Cluster numero 7 =   605   porcentaje de cluster:  10.388049 %
+Cluster numero 8 =   428   porcentaje de cluster:  7.3489013 %
+Cluster numero 9 =   616   porcentaje de cluster:  10.576923 %
